@@ -8,26 +8,28 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "/Users/prakashvenigandla/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\my-fisrt-repo\\HelloWorldMvc\\HelloWorldMvc.csproj",
+      "projectUniqueName": "/Users/prakashvenigandla/Documents/GitHub/my-fisrt-repo/HelloWorldMvc/HelloWorldMvc.csproj",
       "projectName": "HelloWorldMvc",
-      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\my-fisrt-repo\\HelloWorldMvc\\HelloWorldMvc.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\my-fisrt-repo\\HelloWorldMvc\\obj\\",
+      "projectPath": "/Users/prakashvenigandla/Documents/GitHub/my-fisrt-repo/HelloWorldMvc/HelloWorldMvc.csproj",
+      "packagesPath": "/Users/prakashvenigandla/.nuget/packages/",
+      "outputPath": "/Users/prakashvenigandla/Documents/GitHub/my-fisrt-repo/HelloWorldMvc/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/prakashvenigandla/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
